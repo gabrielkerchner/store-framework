@@ -5,9 +5,10 @@
     "info-card#button-right",
     "info-card#button-left",
     "flex-layout.row",
-    "responsive-layout",
     "shelf",
-    "slider-layout#home" 
+    "slider-layout#home",
+    "responsive-layout.desktop#desktop",
+    "responsive-layout.mobile#mobile"
     ]
   },
   "responsive-layout.desktop#desktop": {
