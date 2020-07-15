@@ -58,5 +58,13 @@
       "displayMode": "logo",
       "height": 30
     }
+  },
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false,
+      "showVariationsLabels": true,
+      "initialSelection": "empty",
+      "showVariationsErrorMessage": true
+    }
   }
 }
