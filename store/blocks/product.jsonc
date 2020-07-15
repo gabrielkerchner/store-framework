@@ -63,7 +63,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "showVariationsLabels": true,
+      "showValueForVariation": true,
       "showVariationsErrorMessage": true
     }
   }
