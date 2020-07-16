@@ -9,6 +9,19 @@
       "challenge": "challenge.profile"
     }
   },
+  "product-summary.shelf": {
+    "children": [
+      "product-summary-image",
+      "product-summary-add-to-list-button",
+      "product-summary-name",
+      "product-rating-inline",
+      "product-summary-space",
+      "product-summary-price",
+      "product-identifier.summary",
+      "product-summary-sku-selector",
+      "product-summary-buy-button"
+    ]
+  },
 
   "store.login": {
     "blocks": ["login-content#default"]
