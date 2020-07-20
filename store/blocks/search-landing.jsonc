@@ -1,0 +1,24 @@
+{
+    "store.custom#landing": { 
+      "blocks": [
+        "image#landingbanner", 
+        "search-result-layout.customQuery"
+      ]
+    },
+    "image#landingbanner": {
+        "props": {
+          "src": "https://appliancetheme.vteximg.com.br/arquivos/Responsive-Image-Mobile.jpg?q=1",
+          "minWidth" :"100%",
+          "alt": "Coffee Makers Collection"
+        }
+      },
+      "search-result-layout.customQuery": {
+        "props": {
+          "querySchema": {
+            "hiddenOptions": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8
+          }
+        }
+      }
+  }
