@@ -22,7 +22,7 @@
    "rich-text#about-title": {
       "props": {
         "text":
-        "# Abou FlatFlat"
+        "# About FlatFlat"
       }
     },
     "rich-text#about-content": {
