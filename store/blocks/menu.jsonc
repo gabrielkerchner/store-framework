@@ -10,9 +10,6 @@
         "orientation": "horizontal"
       }
   },
-  "menu-item#major-appliances": {
-    "children": ["vtex.menu@2.x:submenu#major"]
-  },
   "vtex.menu@2.x:submenu#major":{
     "children":[
       "vtex.menu@2.x:menu#major"
@@ -49,16 +46,16 @@
         "children":[
             "vtex.menu@2.x:menu#eletronics"
         ]
-        },
-        "vtex.menu@2.x:menu#eletronics": {
-        "children": [
-            "menu-item#cameras",
-            "menu-item#laptops",
-            "menu-item#tvs"
-        ],
+    },
+    "vtex.menu@2.x:menu#eletronics": {
+    "children": [
+        "menu-item#cameras",
+        "menu-item#laptops",
+        "menu-item#tvs"
+    ],
 
-        "props":{
-            "orientation": "vertical"
-            }
+    "props":{
+        "orientation": "vertical"
         }
+    }
 }
